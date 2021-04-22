@@ -1,0 +1,126 @@
+.cypress-rest-graphql {
+  text-align: left;
+}
+
+div.code {
+  white-space: pre;
+}
+
+.container {
+  background: #fff;
+  padding: 0;
+}
+
+.header {
+  background: #EFF3F7;
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  padding-right: 8px;
+  margin-bottom: 16px;
+}
+
+.header h1 {
+  display: inline-flex;
+  background: #6D8FB8;
+  color: #fff;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 1px;
+  padding: 16px;
+}
+
+.header h2 {
+  margin-left: 8px;
+  color: #5246AE;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 1px;
+}
+
+.duration-response {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 10px;
+  margin-left: auto;
+  overflow: hidden;
+}
+
+.duration {
+  color: #6D8FB8;
+  padding: 8px;
+  background: #fff;
+}
+
+.statusText {
+  background: #6FCF97;
+  color: #fff;
+  padding: 8px;
+}
+
+.statusText.Unauthorized {
+  background: #FB7168;
+  color: #fff;
+  padding: 8px;
+}
+
+.item {
+  background: #fff;
+  box-shadow: 0 4px 16px rgba(82, 70, 174, 0.2);
+  border-radius: 10px;
+  padding: 12px;
+  position: relative;
+  margin-bottom: 16px;
+  overflow: hidden;
+}
+
+.item .title {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  margin-right: 8px;
+  color: #6D8FB8;
+}
+
+.item:not(.short) .title {
+  padding-bottom: 12px;
+  margin-bottom: 12px;
+  border-bottom: 1px solid #EFF3F7;
+}
+
+.item pre {
+  white-space: pre-wrap;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.item code {
+  white-space: pre-wrap;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.item.short {
+  display: inline-flex;
+  align-items: center;
+  margin-right: 12px;
+}
+
+.item.short::before {
+  content: "";
+  position: absolute;
+  background: #ABC4E1;
+  width: 4px;
+  height: 100%;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+}
+
+.item.short pre {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  color: #171490;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}

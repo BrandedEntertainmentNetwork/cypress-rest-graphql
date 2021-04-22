@@ -1,0 +1,38 @@
+{
+  "name": "cypress-rest-graphql",
+  "version": "0.0.1",
+  "description": "Adds a support for testing REST and GraphQL endpoints in Cypress UI tests",
+  "main": "support.js",
+  "keywords": [
+    "cypress",
+    "cypress-plugin",
+    "rest",
+    "graphql",
+    "testing",
+    "api"
+  ],
+  "files": [
+    "support.js",
+    "plugin.js",
+    "display.*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "cypress": "5.x || 6.x || 7.x"
+  },
+  "author": "Alex McFadyen <npm@acmconsulting.eu>",
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "5.1.1",
+    "@cypress/webpack-preprocessor": "5.6.0",
+    "webpack": "4.46.0",
+    "@babel/core": "7.13.10",
+    "@babel/preset-env": "7.13.10",
+    "babel-loader": "8.2.2",
+
+    "highlight.js": "^10.7.2",
+    "highlightjs-graphql": "^1.0.2"
+  }
+}
