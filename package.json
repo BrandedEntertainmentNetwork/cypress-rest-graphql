@@ -1,6 +1,6 @@
 {
   "name": "cypress-rest-graphql",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Adds a support for testing REST and GraphQL endpoints in Cypress UI tests",
   "main": "support.js",
   "keywords": [
@@ -22,8 +22,9 @@
   "peerDependencies": {
     "cypress": "5.x || 6.x || 7.x"
   },
-  "author": "Alex McFadyen <npm@acmconsulting.eu>",
+  "author": "Alex McFadyen <npm@bengroup.com>",
   "license": "ISC",
+  "repository": "https://github.com/BrandedEntertainmentNetwork/cypress-rest-graphql",
   "dependencies": {
     "css-loader": "5.1.1",
     "@cypress/webpack-preprocessor": "5.6.0",

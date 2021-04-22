@@ -83,7 +83,7 @@ cy.restPolling()
 
 ## See it in action for yourself
 
-There is an sample repro (https://github.com/BrandedEntertainmentNetwork/cypress-rest-graphql) which tests the fantastic https://api.spacex.land - performing a simple test.
+There is an sample repro (https://github.com/BrandedEntertainmentNetwork/cypress-rest-graphql-example) which uses the fantastic https://api.spacex.land to performing some simple tests to demonstrate the plugin in action.
 
 ## Assumptions
 
