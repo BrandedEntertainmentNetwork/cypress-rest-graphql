@@ -114,19 +114,19 @@ This project wants to follow the [all-contributors](https://github.com/all-contr
 
 ISC, see [LICENSE](./LICENSE) for details.
 
-[coveralls-image]: https://coveralls.io/repos/github/javierbrea/cypress-rest-graphql/badge.svg
-[coveralls-url]: https://coveralls.io/github/javierbrea/cypress-rest-graphql
-[build-image]: https://github.com/javierbrea/cypress-rest-graphql/workflows/build/badge.svg?branch=main
-[build-url]: https://github.com/javierbrea/cypress-rest-graphql/actions?query=workflow%3Abuild+branch%3Amain
-[last-commit-image]: https://img.shields.io/github/last-commit/javierbrea/cypress-rest-graphql.svg
-[last-commit-url]: https://github.com/javierbrea/cypress-rest-graphql/commits
+[coveralls-image]: https://coveralls.io/repos/github/BrandedEntertainmentNetwork/cypress-rest-graphql/badge.svg
+[coveralls-url]: https://coveralls.io/github/BrandedEntertainmentNetwork/cypress-rest-graphql
+[build-image]: https://github.com/BrandedEntertainmentNetwork/cypress-rest-graphql/workflows/build/badge.svg?branch=main
+[build-url]: https://github.com/BrandedEntertainmentNetwork/cypress-rest-graphql/actions?query=workflow%3Abuild+branch%3Amain
+[last-commit-image]: https://img.shields.io/github/last-commit/BrandedEntertainmentNetwork/cypress-rest-graphql.svg
+[last-commit-url]: https://github.com/BrandedEntertainmentNetwork/cypress-rest-graphql/commits
 [license-image]: https://img.shields.io/npm/l/cypress-rest-graphql.svg
-[license-url]: https://github.com/javierbrea/cypress-rest-graphql/blob/main/LICENSE
+[license-url]: https://github.com/BrandedEntertainmentNetwork/cypress-rest-graphql/blob/main/LICENSE
 [npm-downloads-image]: https://img.shields.io/npm/dm/cypress-rest-graphql.svg
 [npm-downloads-url]: https://www.npmjs.com/package/cypress-rest-graphql
-[npm-dependencies-image]: https://img.shields.io/david/javierbrea/cypress-rest-graphql.svg
-[npm-dependencies-url]: https://david-dm.org/javierbrea/cypress-rest-graphql
+[npm-dependencies-image]: https://img.shields.io/david/BrandedEntertainmentNetwork/cypress-rest-graphql.svg
+[npm-dependencies-url]: https://david-dm.org/BrandedEntertainmentNetwork/cypress-rest-graphql
 [quality-gate-image]: https://sonarcloud.io/api/project_badges/measure?project=cypress-rest-graphql&metric=alert_status
 [quality-gate-url]: https://sonarcloud.io/dashboard?id=cypress-rest-graphql
-[release-image]: https://img.shields.io/github/release-date/javierbrea/cypress-rest-graphql.svg
-[release-url]: https://github.com/javierbrea/cypress-rest-graphql/releases
+[release-image]: https://img.shields.io/github/release-date/BrandedEntertainmentNetwork/cypress-rest-graphql.svg
+[release-url]: https://github.com/BrandedEntertainmentNetwork/cypress-rest-graphql/releases

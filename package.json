@@ -1,6 +1,6 @@
 {
   "name": "cypress-rest-graphql",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Adds a support for testing REST and GraphQL endpoints in Cypress UI tests",
   "main": "support.js",
   "keywords": [
